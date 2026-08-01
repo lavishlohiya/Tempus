@@ -1,3 +1,3 @@
 "# Tempus" 
 
-"##E-Commerce API to buy Artifacts of time"
+"# E-Commerce API to buy Artifacts of time"
