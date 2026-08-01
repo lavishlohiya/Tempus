@@ -2,4 +2,4 @@
 
 ## E-Commerce API to buy Artifacts of time
 
-## working in progress
+# This project is currently under development.
