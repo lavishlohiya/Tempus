@@ -1,5 +1,5 @@
 # Tempus 
 
-## E-Commerce API to buy Artifacts of time
+## generate FIFA cards for Investors and traders
 
 # This project is currently under development.
